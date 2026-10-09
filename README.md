@@ -114,3 +114,11 @@ The evaluations in this project follow several principles:
 - **Clear justification:** Explain why a response receives each score.
 - **Comparative judgment:** Consider both individual quality and relative strengths when selecting the stronger response.
 - **Honest representation:** Clearly distinguish independent portfolio work from professional or commercial evaluation experience.
+
+## Example Evaluation
+
+The evaluation tasks demonstrate how the rubric-based approach is applied in practice.
+
+For example, an evaluation may identify that one response is more complete than another because it addresses more of the user's explicit requirements. The evaluator then scores each response against the defined criteria and provides written reasoning for those scores.
+
+This approach separates individual evaluation dimensions instead of treating overall response quality as a single subjective judgment.
