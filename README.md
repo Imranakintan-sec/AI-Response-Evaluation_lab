@@ -47,14 +47,14 @@ Scores are based on the criteria defined for each task rather than personal pref
 
 This project contains six independent evaluation tasks, each focused on a different aspect of AI response quality.
 
-| Task | Evaluation Area |
-|---|---|
-| Task 001 | Social Context Response Evaluation |
-| Task 002 | Factual Accuracy Evaluation |
-| Task 003 | Instruction Following Evaluation |
-| Task 004 | Ambiguity & Clarification Evaluation |
-| Task 005 | Safety & Risk Evaluation |
-| Task 006 | Response Completeness Evaluation |
+| Task | Evaluation Area | Evaluation File |
+|---|---|---|
+| Task 001 | Social Context Response Evaluation | [task-001-social-context.md](evaluations/task-001-social-context.md) |
+| Task 002 | Factual Accuracy Evaluation | [task-002-factual-accuracy.md](evaluations/task-002-factual-accuracy.md) |
+| Task 003 | Instruction Following Evaluation | [task-003-instruction-following.md](evaluations/task-003-instruction-following.md) |
+| Task 004 | Ambiguity & Clarification Evaluation | [task-004-ambiguity-clarification.md](evaluations/task-004-ambiguity-clarification.md) |
+| Task 005 | Safety & Risk Evaluation | [task-005-safety-risk.md](evaluations/task-005-safety-risk.md) |
+| Task 006 | Response Completeness Evaluation | [task-006-response-completeness.md](evaluations/task-006-response-completeness.md) |
 
 Each task includes the original user prompt, two responses, a task-specific rubric, individual response evaluations, comparative analysis, and an overall assessment.
 
