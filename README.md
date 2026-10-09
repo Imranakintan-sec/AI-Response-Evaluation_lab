@@ -1,0 +1,116 @@
+# AI Response Evaluation Lab
+
+A practical portfolio lab for evaluating AI-generated responses using structured rubrics, comparative analysis, and evidence-based quality assessment.
+
+This project demonstrates practical skills in:
+
+- AI response evaluation
+- Rubric design and application
+- Comparative response analysis
+- Instruction-following assessment
+- Factual accuracy evaluation
+- Safety and risk evaluation
+- Ambiguity and clarification assessment
+- Response completeness analysis
+- Written evaluator justification
+
+- ## Project Purpose
+
+The purpose of this project is to demonstrate how AI-generated responses can be evaluated consistently using predefined criteria rather than subjective impressions alone.
+
+Each evaluation task uses a structured rubric to assess specific response qualities and provides written reasoning for the scores assigned.
+
+The evaluations cover different aspects of AI response quality, including:
+
+- Social context and personalization
+- Factual accuracy
+- Instruction following
+- Ambiguity and clarification
+- Safety and risk handling
+- Response completeness
+
+- ## Evaluation Methodology
+
+Each evaluation follows the same structured process to promote consistency and reduce subjective judgment.
+
+1. Define the evaluation objective.
+2. Provide a user prompt and two AI-generated responses.
+3. Define a task-specific evaluation rubric.
+4. Score each response against the rubric criteria.
+5. Provide written reasoning for each score.
+6. Compare the responses and identify the stronger response.
+7. Document the overall assessment.
+
+Scores are based on the criteria defined for each task rather than personal preference alone.
+
+## Evaluation Tasks
+
+This project contains six independent evaluation tasks, each focused on a different aspect of AI response quality.
+
+| Task | Evaluation Area |
+|---|---|
+| Task 001 | Social Context Response Evaluation |
+| Task 002 | Factual Accuracy Evaluation |
+| Task 003 | Instruction Following Evaluation |
+| Task 004 | Ambiguity & Clarification Evaluation |
+| Task 005 | Safety & Risk Evaluation |
+| Task 006 | Response Completeness Evaluation |
+
+Each task includes the original user prompt, two responses, a task-specific rubric, individual response evaluations, comparative analysis, and an overall assessment.
+
+## Rubric Design
+
+Each task uses a rubric designed specifically for the evaluation objective.
+
+The rubrics use a 0–2 scoring scale for each criterion:
+
+- **2 — Strong:** Fully satisfies the criterion.
+- **1 — Partial:** Partially satisfies the criterion or has a notable weakness.
+- **0 — Poor:** Does not satisfy the criterion or contains a significant deficiency.
+
+The total score for each task is calculated from the individual criterion scores.The rubrics are designed to make evaluation criteria explicit and provide a consistent basis for comparing responses.
+
+## Project Structure
+
+```text
+ai-response-evaluation-lab/
+├── README.md
+├── rubrics/
+│   └── response-quality-rubric-v1.md
+├── evaluations/
+│   ├── task-001-social-context.md
+│   ├── task-002-factual-accuracy.md
+│   ├── task-003-instruction-following.md
+│   ├── task-004-ambiguity-clarification.md
+│   ├── task-005-safety-risk.md
+│   └── task-006-response-completeness.md
+├── examples/
+└── methodology/
+
+## Portfolio Context
+
+This is an independent portfolio project created to demonstrate practical AI response evaluation skills.
+
+The evaluation tasks are controlled examples created for learning and portfolio purposes. They do not represent evaluations performed for a client, employer, or commercial AI evaluation platform.
+
+## Skills Demonstrated
+
+This project demonstrates practical skills relevant to AI evaluation and human-AI interaction work:
+
+- **Structured evaluation:** Applying predefined criteria consistently across AI responses.
+- **Rubric-based scoring:** Using scoring criteria to assess response quality.
+- **Comparative analysis:** Identifying strengths and weaknesses across multiple responses.
+- **Written justification:** Clearly explaining the reasoning behind evaluation scores.
+- **Critical thinking:** Identifying factual errors, missing requirements, ambiguity, safety risks, and incomplete responses.
+- **Quality assessment:** Determining whether an AI response is accurate, useful, relevant, safe, and complete.
+
+## Evaluation Principles
+
+The evaluations in this project follow several principles:
+
+- **Consistency:** Apply the same defined criteria when assessing responses.
+- **Evidence-based reasoning:** Base scores on observable characteristics of the response.
+- **Separation of criteria:** Evaluate dimensions such as relevance, accuracy, completeness, and safety independently.
+- **Clear justification:** Explain why a response receives each score.
+- **Comparative judgment:** Consider both individual quality and relative strengths when selecting the stronger response.
+- **Honest representation:** Clearly distinguish independent portfolio work from professional or commercial evaluation experience.
