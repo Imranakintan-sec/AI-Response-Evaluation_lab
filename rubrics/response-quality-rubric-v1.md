@@ -1,3 +1,15 @@
+## Purpose
+
+This rubric provides a structured framework for evaluating the quality of AI-generated responses.
+
+It is designed to support consistent assessment by defining clear criteria and a standardized 0–2 scoring scale. The rubric is used as a general evaluation framework, while individual tasks may use task-specific criteria appropriate to their evaluation objective.
+
+## Usage
+
+The rubric provides a consistent baseline for evaluating response quality across different tasks.
+
+Each criterion is scored independently using the defined 0–2 scale. Task-specific rubrics may adapt the criteria when a particular evaluation objective requires a different focus.
+
 # Response Quality Rubric v1.0
 
 ## Purpose
