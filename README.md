@@ -122,3 +122,37 @@ The evaluation tasks demonstrate how the rubric-based approach is applied in pra
 For example, an evaluation may identify that one response is more complete than another because it addresses more of the user's explicit requirements. The evaluator then scores each response against the defined criteria and provides written reasoning for those scores.
 
 This approach separates individual evaluation dimensions instead of treating overall response quality as a single subjective judgment.
+
+## Limitations
+
+This project uses controlled examples created for portfolio and learning purposes. The responses and evaluation scenarios are not drawn from real customer interactions or production AI evaluation datasets.
+
+The project demonstrates the evaluation methodology and reasoning process, but it does not by itself represent professional experience evaluating AI systems in a commercial environment.
+
+## Scope
+
+The project focuses on evaluating the quality of AI-generated text responses across different evaluation dimensions.
+
+It does not attempt to measure model performance statistically or provide a benchmark across AI models. Instead, it demonstrates a structured, repeatable approach to evaluating individual responses against clearly defined criteria.
+
+## Reproducibility
+
+The evaluation process is designed to be repeatable. Each task defines the evaluation objective, user prompt, candidate responses, scoring criteria, individual evaluations, comparative analysis, and overall assessment.
+
+Using the same rubric and evaluation criteria allows another evaluator to review the reasoning and understand how the final assessment was reached.
+
+## Future Improvements
+
+Future versions of this project could expand the evaluation set with additional response types, more detailed rubrics, and larger collections of controlled examples.
+
+Possible extensions include:
+
+- Additional AI response evaluation dimensions
+- More complex multi-turn evaluation scenarios
+- Expanded error analysis
+- Inter-rater comparison
+- Quantitative analysis of evaluation results
+
+## Usage
+
+This repository is intended for portfolio demonstration, learning, and educational purposes. The evaluation examples, prompts, responses, and analysis are provided to demonstrate an evaluation methodology and should not be interpreted as production evaluation data.
